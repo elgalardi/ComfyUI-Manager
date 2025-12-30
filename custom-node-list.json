@@ -40415,6 +40415,17 @@
             ],
             "install_type": "unzip",
             "description": "This is a node to convert an image into a CMYK Halftone dot image."
+        },
+        {
+            "author": "elgalardi",
+            "title": "Prompt Splitter (Text Only)",
+            "id": "prompt_splitter_text_only",
+            "reference": "https://github.com/elgalardi/comfyui-prompt-splitter",
+            "files": [
+                "https://github.com/elgalardi/comfyui-prompt-splitter/archive/refs/heads/main.zip"
+            ],
+            "install_type": "unzip",
+            "description": "Text-only multiline prompt splitter with 3/5/10 outputs."
         }
     ]
 }
